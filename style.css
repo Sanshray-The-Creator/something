@@ -1,0 +1,18 @@
+canvas
+{
+    box-shadow: 10px 10px 10px rgb(247, 129, 3);
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.heading
+{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+}
+
+#status, #babyid
+{
+font-size: 18px;
+}
